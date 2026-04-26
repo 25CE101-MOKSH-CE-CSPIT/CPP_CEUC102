@@ -1,0 +1,1 @@
+Hello, this is input tex, bla bla bla. Please count number of words/
